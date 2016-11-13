@@ -1,0 +1,6 @@
+2016-07-27 18:28:45,632 | INFO  | n-invoker-impl-0 | TransactionInvokerImpl           | 252 - org.opendaylight.ovsdb.southbound-impl - 1.2.4.SNAPSHOT
+2016-07-27 18:28:45,692 | INFO  | CommitFutures-6  | TransactionInvokerImpl           | 252 - org.opendaylight.ovsdb.southbound-impl - 1.2.4.SNAPSHOT
+2016-07-27 18:28:47,164 | INFO  | n-invoker-impl-0 | TransactionInvokerImpl           | 252 - org.opendaylight.ovsdb.southbound-impl - 1.2.4.SNAPSHOT
+2016-07-27 18:28:47,165 | INFO  | n-invoker-impl-0 | TransactionInvokerImpl           | 252 - org.opendaylight.ovsdb.southbound-impl - 1.2.4.SNAPSHOT
+2016-07-27 18:28:47,165 | INFO  | n-invoker-impl-0 | TransactionInvokerImpl           | 252 - org.opendaylight.ovsdb.southbound-impl - 1.2.4.SNAPSHOT
+2016-07-27 18:28:47,187 | INFO  | CommitFutures-5  | TransactionInvokerImpl           | 252 - org.opendaylight.ovsdb.southbound-impl - 1.2.4.SNAPSHOT
